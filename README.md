@@ -1,2 +1,2 @@
-# ArUco-WiFI-Based-Localization
+# ArUco-WiFi-Based-Localization
 ArUco-WiFI Based Localization (ROS, Gazebo) 
